@@ -5,8 +5,8 @@ library(ggplot2)
 library(tidyr)
 library(shinyWidgets)
 
-load(file = 'rds/tourn_df.rda')
-load(file = 'rds/match_df.rda')
+load(file = 'tourn_df.rda')
+load(file = 'match_df.rda')
 
 # wanted tournaments
 tourn <- match_df %>% filter(!TournamentType %in% c('51', '52', '', 'Test')) %>% distinct(TournamentType)

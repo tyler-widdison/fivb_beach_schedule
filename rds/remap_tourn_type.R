@@ -65,5 +65,5 @@ type_change <- function(type) {
 }
 
 
-save(remap, file = 'rds/remap.rda')
-save(type_change, file = 'rds/type_change.rda')
+save(remap, file = 'remap.rda')
+save(type_change, file = 'type_change.rda')

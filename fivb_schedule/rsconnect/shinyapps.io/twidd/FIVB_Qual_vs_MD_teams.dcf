@@ -1,0 +1,13 @@
+name: FIVB_Qual_vs_MD_teams
+title: FIVB_Qual_vs_MD_teams
+username:
+account: twidd
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5495259
+bundleId: 5500454
+url: https://twidd.shinyapps.io/FIVB_Qual_vs_MD_teams/
+when: 1643002503.10226
+lastSyncTime: 1643002503.10226
+asMultiple: FALSE
+asStatic: FALSE
